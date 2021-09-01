@@ -1,3 +1,3 @@
-## Plataforma URI
-Repositório Para Estudos na Plataforma URI.
-Atualmente Usando Linguagem C.
+## URI Platform
+* Repository for studies at URI.
+* C Language at the moment.
